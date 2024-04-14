@@ -1,0 +1,22 @@
+{
+  "name": "rxjs",
+  "version": "1.0.0",
+  "description": "Test RxJS code",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "emptyTest": "node emptyTest.js",
+	"mapTest": "node mapTest.js",
+	"switchMapTest": "node switchMapTest.js",
+	"switchMapTest2": "node switchMapTest2.js",
+	"mergeMapTest": "node mergeMapTest.js"
+  },
+  "keywords": [
+    "RxJS",
+    "node.js"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "rxjs": "^7.8.1"
+  }
+}
