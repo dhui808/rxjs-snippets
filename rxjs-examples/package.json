@@ -9,7 +9,8 @@
 	"mapTest": "node mapTest.js",
 	"switchMapTest": "node switchMapTest.js",
 	"switchMapTest2": "node switchMapTest2.js",
-	"mergeMapTest": "node mergeMapTest.js"
+	"mergeMapTest": "node mergeMapTest.js",
+	"subjectTest": "node subjectTest.js"
   },
   "keywords": [
     "RxJS",
